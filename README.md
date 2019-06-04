@@ -12,7 +12,7 @@
 ```
 
 $ git clone https://github.com/regmibijay/web-python/
-$ cd <installation path>
+$ cd web-python
 $ mkdir codes outputs
 $ chown www-data:www-data codes
 $ chown www-data:www-data outputs
